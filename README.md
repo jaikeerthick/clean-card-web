@@ -1,6 +1,6 @@
 # clean-card-web
 A clean card with image, title and a subtitle (customize yourself) with HTMl and CSS only.
-
+![alt](https://github.com/jaikeerthick/clean-card-web/blob/main/Screenshot%20(124).png)
 ### Html :
 
 ```html
@@ -39,3 +39,5 @@ img {
 ```
 
 #### That's all.. Cheers! 
+
+![alt](https://github.com/jaikeerthick/clean-card-web/blob/main/Screenshot%20(123).png)
