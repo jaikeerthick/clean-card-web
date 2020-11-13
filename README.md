@@ -1,5 +1,5 @@
 # clean-card-web
-A clean card with image, title and a subtitle (customize yourself) with HTMl and CSS only.
+A clean card with image, title and a subtitle (customize yourself) with HTML and CSS only.
 
 ![alt](https://github.com/jaikeerthick/clean-card-web/blob/main/Screenshot%20(124).png)
 ### Html :
