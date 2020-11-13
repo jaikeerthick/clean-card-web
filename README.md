@@ -8,7 +8,7 @@ A clean card with image, title and a subtitle (customize yourself) with HTMl and
 <div class="main-card">
   <img src="anyimage.jpg" alt="profile img" style="width:200px">
   <div class="container">
-    <h4><b>Jai Keerthick</b></h4>
+    <h4><b>Allison Parker</b></h4>
     <p>Developer</p>
   </div>
 </div>
