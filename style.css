@@ -1,0 +1,28 @@
+body{
+  font-family: 'Nunito', sans-serif;
+
+}
+.main-card {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 200px;
+  border-radius: 5px; /* 5px rounded corners */
+}
+
+/* --created by Jai keerthick-- */
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+/* On hovering, add a deeper shadow effect */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container (optional) */
+.container {
+  padding: 2px 16px;
+}
